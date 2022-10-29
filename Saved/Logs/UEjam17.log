@@ -6127,3 +6127,16 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.29-08.31.00:396][526]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
 [2022.10.29-08.31.00:401][526]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
 [2022.10.29-08.31.00:401][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-08.37.20:168][632]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-08.37.20:669][632]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-08.37.20:672][632]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-08.37.21:173][632]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-08.37.21:176][632]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-08.37.21:677][632]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-08.37.21:714][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.29-08.37.21:719][632]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/YX/AGDF39LW10CFNIVLV1P4MF_Auto1
+[2022.10.29-08.37.21:719][632]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/AGDF39LW10CFNIVLV1P4MF_Auto182D971854668E330D7128194D50751BC.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/YX/AGDF39LW10CFNIVLV1P4MF_Auto1.uasset'
+[2022.10.29-08.37.21:721][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.032
+[2022.10.29-08.37.21:721][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.10.29-09.19.40:578][752]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.641 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.29-10.19.40:533][489]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.384 and deleted 0 file(s) with total size 0 MiB.
